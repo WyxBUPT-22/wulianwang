@@ -1,3 +1,5 @@
+北邮22级信通武宇新 大三上物联网大作业
+
 在Pycharm中打开整个项目，
 script文件夹中是所有代码部分；data_loader,model,train_main,train_model四个文件是训练模型相关的代码，不需要再动了；
 .pth文件是训练过程中生成的权重文件，一定不要动；
